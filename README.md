@@ -289,7 +289,7 @@ We’re constantly improving DARKZ-MD to bring more power to your fingertips. He
 </p>
 
 <h1 align="center" style="color:#10B981; font-weight:bold;">
-  Danuka Disanayaka
+  DARK CHENU
 </h1>
 
 <p align="center">
