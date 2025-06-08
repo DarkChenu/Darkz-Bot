@@ -215,7 +215,7 @@ jobs:
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Deploy+via+Railway;Easy+one+tap+deployment" alt="Typing SVG" />
 </p>
 
-You can easily deploy your own instance of DANUWA-MD on Railway with just one click.
+You can easily deploy your own instance of DARKZ-MD on Railway with just one click.
 
 1. Click the "Deploy on Railway" button.
 
@@ -235,7 +235,7 @@ Click "Deploy" — Railway will handle the rest!
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Fast%2C+lightweight%2C+and+modular;Smart+commands+and+media+support;Built+with+Baileys" alt="Typing SVG" />
 </p>
 
-DANUWA-MD is designed with scalability, flexibility, and functionality in mind. Here’s what it offers:
+DARKZ-MD is designed with scalability, flexibility, and functionality in mind. Here’s what it offers:
 
 | Category          | Description |
 |------------------|-------------|
@@ -260,7 +260,7 @@ DANUWA-MD is designed with scalability, flexibility, and functionality in mind. 
 
 ## 🛠️ Coming Soon
 
-We’re constantly improving DANUWA-MD to bring more power to your fingertips. Here’s what’s on the roadmap:
+We’re constantly improving DARKZ-MD to bring more power to your fingertips. Here’s what’s on the roadmap:
 
 | Feature               | Description |
 |------------------------|-------------|
