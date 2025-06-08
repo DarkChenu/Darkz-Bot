@@ -1,0 +1,31 @@
+{
+  "name": "DARKZ-MD",
+  "description": "Javascript WhatsApp bot made by Dark Chenu",
+  "logo": "https://github.com/DarkChenu/Dark-Chenu/blob/main/5faa8a2e-62c8-49bc-bf78-adaff8cc2c2d.png?raw=true",
+  "keywords": ["DARKZ-MD"],
+  "success_url": "/",
+
+  "env": {
+    "SESSION_ID": {
+      "description": "Put the session-id here.",
+      "required": true
+    },  
+
+    "ALIVE_IMG": {
+      "description": "Put your alive img here.",
+      "required": true
+    },
+    
+    "ALIVE_MSG": {
+      "description": "Put your alive msg here.",
+      "required": true
+    }   
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+}
