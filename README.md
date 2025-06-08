@@ -1,13 +1,13 @@
 <h1 align="center" style="font-weight:bold;">
-⚡ Ｄ Ａ Ｎ Ｕ Ｗ Ａ － Ｍ Ｄ ⚡
+⚡ D A R K Z － M D ⚡
 </h1>
 
 <p align="center">
-  <img src="https://github.com/DANUWA-MD/DANUWA-MD/blob/main/images/Danuwa%20-%20MD.png?raw=true" alt="DANUWA-MD Logo" style="border-radius: 50px; box-shadow: 0 0 20px #00ffe5, 0 0 30px #00ffe5, 0 0 40px #00ffe5;">
+  <img src="https://github.com/DarkChenu/Dark-Chenu/blob/main/5faa8a2e-62c8-49bc-bf78-adaff8cc2c2d.png?raw=true" alt="DARKZ-MD Logo" style="border-radius: 50px; box-shadow: 0 0 20px #00ffe5, 0 0 30px #00ffe5, 0 0 40px #00ffe5;">
 </p> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Hello+How+are+you%3F;Welcome+to+DANUWA-MD+WhatsApp+Bot;I'm+Danuka+Disanayaka" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Hello+How+are+you%3F;Welcome+to+DARKZ-MD+WhatsApp+Bot;I'm+DARK+CHENU" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,29 +17,29 @@
 
 
 <p align="center">
-  <a href="https://github.com/your-username/DANUWA-MD">
+  <a href="https://github.com/DarkChenu">
     <img src="https://img.shields.io/github/repo-size/DANUWA-MD/DANUWA-MD?color=green&label=Repo%20Size&style=flat-square" />
   </a>
-  <a href="https://github.com/your-username/DANUWA-MD">
+  <a href="https://github.com/DarkChenu">
     <img src="https://img.shields.io/github/license/DANUWA-MD/DANUWA-MD?color=blue&style=flat-square" />
   </a>
-  <a href="https://github.com/your-username/DANUWA-MD/fork">
+  <a href="https://github.com/DarkChenu">
     <img src="https://img.shields.io/github/forks/DANUWA-MD/DANUWA-MD?style=flat-square" />
   </a>
-  <a href="https://github.com/your-username/DANUWA-MD/stargazers">
+  <a href="https://github.com/DarkChenu">
     <img src="https://img.shields.io/github/stars/DANUWA-MD/DANUWA-MD?style=flat-square" />
   </a>
 </p>
 
 ---
 
-## 📍 What is DANUWA-MD?
+## 📍 What is DARKZ-MD?
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Multi-device+WhatsApp+bot;Modular+plugin+architecture;Media+and+group+management+tools" alt="Typing SVG" />
 </p>
 
-**DANUWA-MD** is a multi-device WhatsApp bot written in Node.js using the [Baileys](https://github.com/adiwajshing/Baileys) library. It supports QR/Pairing code login, a plugin-based command system, and various media tools such as sticker conversion, song and video downloads, and group management commands.
+**DARKZ-MD** is a multi-device WhatsApp bot written in Node.js using the [Baileys](https://github.com/adiwajshing/Baileys) library. It supports QR/Pairing code login, a plugin-based command system, and various media tools such as sticker conversion, song and video downloads, and group management commands.
 
 ---
 
@@ -66,7 +66,7 @@
 ### 🚀 Installation
 
 1. **Fork the Repository**  
-   [DANUWA-MD GitHub Repo](https://github.com/DANUWA-MD/DANUWA-BOT)
+   [DAEKZ-MD GitHub Repo](https://github.com/DANUWA-MD/DANUWA-BOT)
 
 2. **Generate Session ID**  
     [Generate Session ID](https://danuwa-official.vercel.app/)
@@ -109,7 +109,7 @@
 
 ---
 
-## 🧑‍💻 How to Deploy DANUWA-MD on GitHub Codespaces
+## 🧑‍💻 How to Deploy DARKZ-MD on GitHub Codespaces
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Step-by-step+deployment+guide;Install+dependencies+and+start+bot" alt="Typing SVG" />
@@ -117,7 +117,7 @@
 
 1. Click the **"Launch in GitHub Codespaces"** button above.
 2. Sign in with your GitHub account if needed.
-3. Choose your forked repository (`DANUWA-MD`) to open in a new Codespace.
+3. Choose your forked repository (`DARKZ-MD`) to open in a new Codespace.
 4. Wait for GitHub to set up your development environment.
 5. In the terminal, install dependencies using:
 
@@ -132,7 +132,7 @@
    ```
 
 
-## ⚡ How to Deploy DANUWA-MD on Replit
+## ⚡ How to Deploy DARKZ-MD on Replit
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Step-by-step+deployment+guide;Install+dependencies+and+start+bot" alt="Typing SVG" />
@@ -141,7 +141,7 @@
 1. Click the **"Run on Replit"** button above to begin deployment.  
 2. Log in to [Replit](https://replit.com) using your **GitHub account** if prompted.  
 3. On your Replit dashboard, click the **➕ “Create Repl”** button in the left sidebar.  
-4. Select **“Import from GitHub”** and paste the link to your **forked `DANUWA-MD` repository**.  
+4. Select **“Import from GitHub”** and paste the link to your **forked `DARKZ-MD` repository**.  
 5. Replit will automatically import and set up your project.  
 6. Once ready, click the **“Run”** button at the top — the bot will start and show logs in the console.
 
@@ -150,7 +150,7 @@ Make sure your repository includes all required files (`index.js`, `plugins`, `a
 
 ---
 
-## 🚀 How to Deploy DANUWA-MD on GitHub (via Actions)
+## 🚀 How to Deploy DARKZ-MD on GitHub (via Actions)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Deploy+via+workflow+YAML;Push+and+run+automatically" alt="Typing SVG" />
@@ -209,7 +209,7 @@ jobs:
 
 ---
 
-## 🚄 How to Deploy DANUWA-MD on Railway
+## 🚄 How to Deploy DARKZ-MD on Railway
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Deploy+via+Railway;Easy+one+tap+deployment" alt="Typing SVG" />
@@ -281,11 +281,11 @@ We’re constantly improving DANUWA-MD to bring more power to your fingertips. H
 ## 👨‍💻 Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Danuka+Dissanayaka;Full+Stack+Developer;Creator+Of+DANUWA-MD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Dark+Chenu;Full+Stack+Developer;Creator+Of+DARKZ-MD" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/DANUWA-MD/DANUWA-MD/blob/main/images%20/Danuka%20Dissanayake.jpg?raw=true" width="540" style="border-radius: 50px;" alt="Danuka Disanayaka"/>
+  <img src="https://github.com/DarkChenu/Dark-Chenu/blob/main/5faa8a2e-62c8-49bc-bf78-adaff8cc2c2d.png?raw=true" width="540" style="border-radius: 50px;" alt="Dark Chenu"/>
 </p>
 
 <h1 align="center" style="color:#10B981; font-weight:bold;">
@@ -293,14 +293,14 @@ We’re constantly improving DANUWA-MD to bring more power to your fingertips. H
 </h1>
 
 <p align="center">
-Danuka Disanayaka is a passionate full-stack developer and automation enthusiast with a focus on building scalable bots, AI integrations, and open-source tools. With a deep understanding of JavaScript, Node.js, and real-time systems, Harshana actively contributes to the developer community by creating tools that simplify communication and task automation. His work emphasizes clean code, performance, and user-centric design.
+Dark Chenu is a passionate full-stack developer and automation enthusiast with a focus on building scalable bots, AI integrations, and open-source tools. With a deep understanding of JavaScript, Node.js, and real-time systems, Harshana actively contributes to the developer community by creating tools that simplify communication and task automation. His work emphasizes clean code, performance, and user-centric design.
 </p>
 
 <p align="center">
-  <a href="https://github.com/DANUWA_MD">GitHub</a> • 
-  <a href="https://www.youtube.com/@quizontal">YouTube</a> •
-  <a href="https://Wa.me/+94776121326">WhatsApp</a> •
-  <a href="https://www.facebook.com/share/1AM4qa8S4e/">Facebook</a>
+  <a href="https://github.com/DarkChenu">GitHub</a> • 
+  <a href="https://www.youtube.com/@Tunes1N">YouTube</a> •
+  <a href="https://Wa.me/+94762877975">WhatsApp</a> •
+  <a href="https://www.facebook.com/chenula.gajanayake/">Facebook</a>
 
 
 </p>
