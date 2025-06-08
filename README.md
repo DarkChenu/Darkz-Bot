@@ -66,7 +66,7 @@
 ### 🚀 Installation
 
 1. **Fork the Repository**  
-   [DAEKZ-MD GitHub Repo](https://github.com/DANUWA-MD/DANUWA-BOT)
+   [DARKZ-MD GitHub Repo](https://github.com/DANUWA-MD/DANUWA-BOT)
 
 2. **Generate Session ID**  
     [Generate Session ID](https://danuwa-official.vercel.app/)
